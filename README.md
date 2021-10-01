@@ -53,6 +53,10 @@ For the rest of the application in Java EE I used Spring, Hibernate and Maven fr
 
 ![Eclipse project](eclipse-project.png)
 
+I provide the UML class diagram.
+
+![UML class diagram](uml_class_diagram.png)
+
 ## Usage
 
 modulo2-spring-hibernate-JoseMariaRomero\src\main\java\com\josemaria\spring\main\Inicio.java
