@@ -59,7 +59,7 @@ I provide the UML class diagram.
 
 ## Usage
 
-modulo2-spring-hibernate-JoseMariaRomero\src\main\java\com\josemaria\spring\main\Inicio.java
+[modulo2-spring-hibernate-JoseMariaRomero\src\main\java\com\josemaria\spring\main\Inicio.java](modulo2-spring-hibernate-JoseMariaRomero/src/main/java/com/josemaria/spring/main/Inicio.java)
 
 I executed some CRUD operations:
 
